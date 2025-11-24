@@ -36,3 +36,12 @@ A Python GUI project that connects a **Teacher Test Scheduler** with a **Student
 - Python 3.8+
 - Tkinter (bundled with Python)
 - Install extra libraries:
+
+pip install tkcalendar pandas
+
+---
+
+## 🚀 How to Run
+
+1. Make sure all CSV files are in the same folder as `F13CPSlabeval3.py`.
+2. Run:
