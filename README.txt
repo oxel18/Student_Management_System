@@ -1,4 +1,4 @@
-# 📅 Teacher–Student Scheduler & Task Manager
+<h1>📅 Teacher–Student Scheduler & Task Manager<h1>
 
 A Python GUI project that connects a **Teacher Test Scheduler** with a **Student Task Manager** using shared CSV files. Teachers schedule tests only in valid class periods, and students view those tests along with their own tasks on a calendar.
 
@@ -83,3 +83,4 @@ pip install tkcalendar pandas
 - Drop‑down status selector.
 - Export upcoming tasks/tests to PDF or CSV.
 - Simple login for multiple teachers/students.
+
